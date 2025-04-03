@@ -54,7 +54,7 @@ navbar.classList.remove('active');
    /*======typed js=========*/
 
    const typed = new Typed('.multiple-text', {
-    strings: ['English Tutor', 'Virtual Assistant', 'Writer'],
+    strings: ['English Tutor', 'Admintrative Virtual Assistant', 'Writer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
