@@ -58,5 +58,5 @@ navbar.classList.remove('active');
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
-    loop: true
+    loop: false
    });
